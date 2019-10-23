@@ -52,7 +52,6 @@ Time1: $time1
 ";
   echo "Time2: $time2 ($time3)
 ";
-}
 
 function left($str, $length) {
      return substr($str, 0, $length);
